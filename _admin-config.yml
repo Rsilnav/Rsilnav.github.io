@@ -1,0 +1,4 @@
+admin:
+  username: rafa
+  password_hash: $2a$10$UTqZ9IIVHh4jm7GiRCAwQexpZAkYIF63YRc5gg03XtUXexcfNSTL2
+  secret: itsawonderfulworld
